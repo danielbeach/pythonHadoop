@@ -1,0 +1,53 @@
+{
+        "earlychurch":  ["Clement_of_Rome",
+                                "Ignatius",
+                                "Polycarp",
+                                "Papias",
+                                "Justin_Martyr",
+                                "Irenaeus",
+                                "Clement_of_Alexandria",
+                                "Athanasius",
+                                "John_Chrysostom",
+                                "Augustine",
+                                "Ambrose",
+                                "Jerome"
+                        ],
+
+        "reformation":
+                        [
+                                "John_Calvin",
+                                "Martin_Luther",
+                                "John_Wycliffe",
+                                "Peter_Waldo",
+                                "John_Hus",
+                                "Philipp_Melanchthon",
+                                "Huldrych_Zwingli",
+                                "Martin_Bucer",
+                                "John_Knox",
+                                "Thomas_Cranmer",
+                                "Thomas_Cromwell",
+                                "William_Tyndale",
+                                "Thomas_Muntzer"
+                        ],
+
+        "puritan":
+                        [
+                                "John_Ball",
+                                "Richard_Baxter",
+                                "John_Bunyan",
+                                "Thomas_Cartwright",
+                                "Oliver_Cromwell",
+                                "John_Flavel",
+                                "John_Howe",
+                                "John_Milton",
+                                "Richard_Sibbes",
+                                "Thomas_Watson"
+                        ],
+
+        "greatawakening":
+                        [
+                                "D.L._Moody",
+                                "Charles_Spurgeon"
+                        ]
+
+}
